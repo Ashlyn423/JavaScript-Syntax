@@ -36,3 +36,6 @@ i--
 console.log(i)
 console.log(typeof num1)
 console.log(typeof num1string)
+var a = 10
+var b = 10
+console.log(a+b, a-b, a*b, a/b)
